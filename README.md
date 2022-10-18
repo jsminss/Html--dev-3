@@ -1,2 +1,2 @@
 # Html--dev-3
-www.patikadev.com.tr
+https://www.patika.dev/tr
